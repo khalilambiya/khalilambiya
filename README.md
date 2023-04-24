@@ -1,7 +1,9 @@
 ## Hello There
 
 I'm Khalil, a software engineer focusing on backend, <br>
-I worked on a payment gateway company for 5 years
+I have been working on a payment gateway company for last 5 years
+
+I'm more of a product engineer, even though I prefer to dive into the payment system, I would love to work on anything related to backend, infrastructure, automation, customer dashboard, system statistics and visualization, or increasing developer experience at any level.
 
 ### Tech Stacks
 <table>
